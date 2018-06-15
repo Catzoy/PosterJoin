@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PosterJoin</string>
+    <string name="Name">Name</string>
+    <string name="Barcode">Barcode</string>
+    <string name="Cost">Price</string>
+    <string name="sample">Sample Text</string>
+    <string name="Save">Save</string>
+</resources>
